@@ -1,0 +1,21 @@
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.content{
+    width: 70%;
+    height: 100px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+}
+.item{
+    font-size: 24px;
+    color:black;
+    font-weight: 900;
+    font-family: sans-serif;
+    margin-right: 10px;
+}
